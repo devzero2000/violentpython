@@ -1,0 +1,4 @@
+violentpython
+=============
+
+violentpython code examples
